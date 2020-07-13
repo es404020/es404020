@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**es404020/es404020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on   ForsterFields Griffins
+- 🌱 I’m currently learning  Rust
+- 👯 I’m looking to collaborate on Flutter,Rust and Angular
+- 🤔 I’m looking for help with Rust
+- 💬 Ask me about Flutter
+- 📫 How to reach me: twiiter [@ajani_eniola](https://twitter.com/ajani_eniola)
+
+
+
+
