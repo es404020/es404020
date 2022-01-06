@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on   ForsterFields Griffins
+
 - 🌱 I’m currently learning  Rust
 - 👯 I’m looking to collaborate on Flutter,Rust and Angular
 - 🤔 I’m looking for help with Rust
