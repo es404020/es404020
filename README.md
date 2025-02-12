@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 
 
-- 📫 How to reach me: twiiter [@ajani_eniola](https://twitter.com/ajani_eniola)
+- 📫 How to reach me: twiiter [@hieyine_nons](https://twitter.com/chieyine_nonso)
 
 
 
